@@ -1,0 +1,5 @@
+[
+  { "id": 1, "date": "2026-11-24", "tag": "Update", "title": "Grow Lancer joins MU Zylo", "text": "The Season 12 lance-and-shield class is here with Mirage and Shining Lancer evolutions. Reach level 250 on any character to unlock it." },
+  { "id": 2, "date": "2026-11-17", "tag": "Raid", "title": "Raid difficulties: Normal, Hard, Extreme", "text": "Both raids, the Sunken Citadel and the Tempest Spire, now scale up. Harder runs mean better chest odds. Clear times are tracked in the Hall of Fame." },
+  { "id": 3, "date": "2026-11-01", "tag": "Boss", "title": "Thanatos, the world boss", "text": "Deal the most damage to rank in the top 10 and earn experience buffs and Credits. The leaderboard is public." }
+]

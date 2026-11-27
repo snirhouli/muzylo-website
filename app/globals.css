@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-bg text-ink antialiased; }
+@layer components {
+  .btn-gold { @apply inline-flex items-center justify-center rounded-lg bg-gradient-to-b from-gold to-gold2 px-7 py-3 text-sm font-bold text-[#1a1405] transition hover:brightness-110; }
+  .btn-ghost { @apply inline-flex items-center justify-center rounded-lg border border-gold px-7 py-3 text-sm font-bold text-gold transition hover:bg-gold/10; }
+  .card { @apply rounded-2xl border border-line bg-panel; }
+  .eyebrow { @apply text-xs font-bold uppercase tracking-[0.25em] text-gold; }
+  .h2 { @apply font-display text-3xl font-bold md:text-4xl; }
+  .th { @apply px-4 py-3 text-left text-[11px] font-bold uppercase tracking-widest text-mute; }
+  .td { @apply px-4 py-3 text-sm; }
+}
